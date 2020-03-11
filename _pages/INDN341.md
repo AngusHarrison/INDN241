@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: collection 
 title: INDN341
 permalink: /INDN341/
 ---
