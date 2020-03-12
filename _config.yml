@@ -5,9 +5,12 @@ description: Industrial Design Portfolio
 permalink: ':title/'
 
 collections:
-  - INDN341_
-  - INDN211_
-  - INDN241_
+  INDN341:
+  output: true
+  INDN211:
+  output: true
+  INDN241:
+  output: true
 
 
 # Contact form
