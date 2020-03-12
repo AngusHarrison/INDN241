@@ -2,16 +2,7 @@
 name: Angus Harrison Design 
 title: Design - Angus Harrison
 description: Industrial Design Portfolio
-permalink: ':title/'
 
-collections:
-  INDN211:
-    output: true
-  INDN241:
-    output: true
-  INDN341:
-    output: true
-   
 
 # Contact form
 email: angusharrison1@gmail.com
