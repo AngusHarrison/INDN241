@@ -6,7 +6,7 @@ description: Industrial Design Portfolio
 collections:
   INDN211:
     output: true
-  INDN241
+  INDN241:
     output: true
   INDN341:
     output: true
