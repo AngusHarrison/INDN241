@@ -5,13 +5,13 @@ description: Industrial Design Portfolio
 permalink: ':title/'
 
 collections:
-  INDN341:
-  output: true
   INDN211:
-  output: true
+    output: true
   INDN241:
-  output: true
-
+    output: true
+  INDN341:
+    output: true
+   
 
 # Contact form
 email: angusharrison1@gmail.com
