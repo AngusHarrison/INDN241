@@ -3,14 +3,7 @@ layout: post
 title: INDN341
 permalink: /INDN341/
 ---
----
-layout: post
-title:  "341 Project 1 Plan"
-date:   2020-03-6 
-img:
-permalink: INDN341
 
----
 #### Brief Breakdown – Creative Creator 
 Great creators explore and employee cutting-edge processes and materials to design practices.    
 New Technology becomes more useful, powerful and meaningful with great design is involved.      
@@ -35,14 +28,6 @@ Experimenting with materials and technologies to strengthen and realise your ide
 #### Lifestyle Issues 
 * Tidying room 
 * Loosing Things 
-
-
----
-layout: post
-title:  "341 Idea 1"
-date:   2020-03-6 
-permalink: INDN341
----
 
 
 ## Best Idea 1  
