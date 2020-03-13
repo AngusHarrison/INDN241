@@ -10,6 +10,7 @@ collections:
     output: true
   INDN341:
     output: true
+    permalink: INDN341
 
 
 # Contact form
