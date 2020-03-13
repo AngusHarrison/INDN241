@@ -1,6 +1,7 @@
 ---
 layout: post
-title: INDN241
-
+title: INDN211
+permalink: /INDN241/
 ---
+
 Blog Posts for INDN241
