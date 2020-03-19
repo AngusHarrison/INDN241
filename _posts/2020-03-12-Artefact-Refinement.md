@@ -105,15 +105,13 @@ applicable) for each of the artefacts selected:
 
   * Do you think it is technically, aesthetically or culturally important or meaningful?
     - Culturally it has become ingrained in jobs associated with utility, such as the target market Police officers, firefighters and mechanics. Police officers have also been known to use them as a substitute for a baton.
-
   * In conclusion, why do you think it deserves to be an exemplar of good design?
-    -
   * How would you improve it if you redesign it?
 
 
 
 
-[1] Wikipedia contributors (11.03.2020), Retrieved 12.03.2020 https://en.wikipedia.org/wiki/Dyson_(company)
-[2] Maglite Website(26.07.2019), Retrieved 12.03.2020 https://maglite.com/blogs/maghistory-blog-1/company-history
-[3] Maglite Website(27.07.2019), Retrieved 12.03.2020 https://maglite.com/blogs/maghistory-blog-1/the-lion-and-the-gazelle
-[4][1] Wikipedia contributors (01.01.2020), Retrieved 12.03.2020 https://en.wikipedia.org/wiki/Maglite
+[1] Wikipedia contributors (11.03.2020), Retrieved 12.03.2020 https://en.wikipedia.org/wiki/Dyson_(company)  
+[2] Maglite Website(26.07.2019), Retrieved 12.03.2020 https://maglite.com/blogs/maghistory-blog-1/company-history  
+[3] Maglite Website(27.07.2019), Retrieved 12.03.2020 https://maglite.com/blogs/maghistory-blog-1/the-lion-and-the-gazelle  
+[4][1] Wikipedia contributors (01.01.2020), Retrieved 12.03.2020 https://en.wikipedia.org/wiki/Maglite  
