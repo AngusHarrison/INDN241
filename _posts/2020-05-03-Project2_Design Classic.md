@@ -9,10 +9,11 @@ img:
 KitchenAid is an American home appliance brand owned by Whirlpool Corporation started in 1919.
 The Company had moderate success with the first Stand Mixer the Model H. Designed by Herbert Johnson. The product was innovative at the time as it automated the process of a baker mixing dough, but the form was purely functional. Over the next 10 years the market began to saturate, KitchenAid struggled to hold an edge in the market until the 1930's when Industrial Designer Egmont Arens introduced the classic silhouette of the Model K. The model K silhouette has changed little since the 1930's yet is still a very desirable and fashionable home appliance. Leading it to be selected as my design classic.
 
-<img src="{{site.baseurl}}/assets/img/DesignImages/oldMixer.jpg">
-Original H Series Mixer Designed by Herbert Johnson
-<img src="{{site.baseurl}}/assets/img/DesignImages/newMixer.jpg">
-Redesigned form, The model K mixer by Egmont Arens
+<img src="{{site.baseurl}}/assets/img/DesignImages/mixerOld.jpg">
+Original H Series Mixer Designed by Herbert Johnson  
+
+<img src="{{site.baseurl}}/assets/img/DesignImages/mixerNew.jpg">
+Redesigned form, The model K mixer by Egmont Arens  
 
 ##### Model K Analysis   
 
