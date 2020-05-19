@@ -38,14 +38,14 @@ In 1942 Egmont Arens also co designed another piece of kitchen wear with the sam
 Sources:
 100 Years of Design consists of excerpts from a book by Carroll M. Gantz, FIDSA, entitled, Design Chronicles: Significant Mass-produced Designs of the 20th Century, published August 2005 by Schiffer Publications, Ltd.
 
-<img src="{{site.baseurl}}/assets/img/DesignImages/egm2.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_1.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_2.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_3.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_4.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_5.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_6.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_7.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_8.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_9.jpg>
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_10.jpg>
+<img src="{{site.baseurl}}/assets/img/DesignImages/egm2.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_1.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_2.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_3.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_4.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_5.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_6.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_7.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_8.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_9.jpg">
+<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_10.jpg">
