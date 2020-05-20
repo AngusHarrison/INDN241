@@ -47,5 +47,4 @@ Sources:
 <img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_6.jpg">
 <img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_7.jpg">
 <img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_8.jpg">
-<img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_9.jpg">
 <img src="{{site.baseurl}}/assets/img/DesignImages/Screenshot_10.jpg">
